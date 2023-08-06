@@ -155,8 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Eyosiyas Assefa - [Github](https://github.com/Josiah-AG) / [Twitter](https://twitter.com/Jpsiah.AG)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
-Second part of Airbnb: Joann Vuong
+Atae Tlidi - [Github](https://github.com/AtaeTL)
 ## License
 Public Domain. No copy write protection. 
